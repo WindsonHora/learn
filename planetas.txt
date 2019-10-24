@@ -2,4 +2,6 @@ Tatooine
 Coruscant
 Endor
 Hoth
+HEAD
 Dantooine
+Jakku
