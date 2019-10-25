@@ -6,3 +6,4 @@ HEAD
 Dantooine
 Jakku
 Alderaan
+Kuat
