@@ -5,3 +5,4 @@ Hoth
 HEAD
 Dantooine
 Jakku
+Kuat
